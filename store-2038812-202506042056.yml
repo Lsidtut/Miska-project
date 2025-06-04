@@ -1,0 +1,1269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-06-04T20:56:22+03:00">
+	<shop>
+		<name>Мясо для собак с доставкой по Москве и московской области дешево</name>
+		<company>Мясная Миска</company>
+		<url>https://xn----7sbb5akicf9af1md.xn--p1ai</url>
+		<platform>Tilda Publishing</platform>
+		<version>1.0</version>
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		<categories>
+			<category id="928360211621">Акции</category>
+			<category id="405675364441">Сухие лакомства</category>
+			<category id="112080788621">Птица</category>
+			<category id="205115950421">Говядина</category>
+			<category id="127719998281">Мясные миксы</category>
+			<category id="883358544912">Мелкая нарезка</category>
+			<category id="611228442691">Колбаса</category>
+			<category id="779828207211">Каши</category>
+			<category id="527666187391">Масло</category>
+			<category id="553776583151">Сухие корма</category>
+			<category id="332071940881">Рыба</category>
+			<category id="288998910711">Баранина</category>
+			<category id="460782687632">Фарш</category>
+			<category id="882578174528">All</category>
+		</categories>
+		<offers>
+		<offer id="181133692165">
+			<name>Трахея (крупная, мелкая)</name>
+			<description>
+<![CDATA[
+Трахея сушёная говяжья — лакомство, богатое хрящевой и соединительной тканью, богатое белком, фосфором, железом и цинком. Очищает ротовую полость и укрепляет челюсти собаки.
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3438-6631-4135-b339-363433386132/-0.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/lakomstva/tproduct/465567409-181133692165-traheya-krupnaya-melkaya</url>
+			<count>9999</count>
+			<price>150.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>405675364441</categoryId>
+		</offer>
+		<offer id="102548516922">
+			<name>Чипсы из говяжьей печени (крупные)</name>
+			<description>
+<![CDATA[
+Лакомство для собак подходит для дрессировки и поощрения питомца.
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild6238-6534-4465-b531-363737316439/__-0.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/lakomstva/tproduct/465567409-102548516922-chipsi-iz-govyazhei-pecheni-krupnie</url>
+			<count>9999</count>
+			<price>150.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>405675364441</categoryId>
+		</offer>
+		<offer id="882613378064">
+			<name>Носы говяжьи сушёные</name>
+			<description>
+<![CDATA[
+Высокое содержание белка, хрящевой и соединительной ткани.
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild6631-6366-4465-b634-633437303664/-0.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/lakomstva/tproduct/465567409-882613378064-nosi-govyazhi-sushyonie</url>
+			<count>9999</count>
+			<price>200.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>405675364441</categoryId>
+		</offer>
+		<offer id="920252148694">
+			<name>Легкое крупное</name>
+			<description>
+<![CDATA[
+Основная его ценность заключается в большом содержании белка – 15 грамм на 100 грамм продукта.
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild6333-3736-4138-b138-656439636136/_-0.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/lakomstva/tproduct/465567409-920252148694-legkoe-krupnoe</url>
+			<count>9999</count>
+			<price>150.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>405675364441</categoryId>
+		</offer>
+		<offer id="631022814335">
+			<name>Жилка крупная</name>
+			<description>
+<![CDATA[
+Жилки представляют собой высушенные по уникальной технологии говяжьи сухожилия.
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild6332-6561-4035-b235-363539623566/-0.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/lakomstva/tproduct/465567409-631022814335-zhilka-krupnaya</url>
+			<count>9999</count>
+			<price>180.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>405675364441</categoryId>
+		</offer>
+		<offer id="146205366257">
+			<name>Мясо пищевода говяжье</name>
+			<description>
+<![CDATA[
+Представляет собой куски мяса с небольшими фрагментами соединительной ткани
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3031-6138-4265-a439-666161353132/_.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/govyadina/tproduct/465556718-146205366257-myaso-pischevoda-govyazhe</url>
+			<count>9999</count>
+			<price>260.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>205115950421</categoryId>
+		</offer>
+		<offer id="863184082621">
+			<name>Вымя говяжье</name>
+			<description>
+<![CDATA[
+Вымя коровы – это субпродукт первой категории
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3033-6137-4336-b937-336163656661/-0.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/govyadina/tproduct/465556718-863184082621-vimya-govyazhe</url>
+			<count>9999</count>
+			<price>120.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>205115950421</categoryId>
+		</offer>
+		<offer id="490341702375">
+			<name>Калтык говяжий</name>
+			<description>
+<![CDATA[
+Калтык на 95% состоит из протеина, что определяет его ценность в плане снабжения организма собаки коллагеном и эластином
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild6231-3763-4661-a539-343930656630/_2.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/govyadina/tproduct/465556718-490341702375-kaltik-govyazhii</url>
+			<count>9999</count>
+			<price>200.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>205115950421</categoryId>
+		</offer>
+		<offer id="419846605432">
+			<name>Лёгкое говяжье</name>
+			<description>
+<![CDATA[
+Легкое говяжье — это низкокалорийный продукт, содержащий в своем составе большую концентрацию соединительной ткани
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3238-6463-4765-b361-366466366233/2-0.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/govyadina/tproduct/465556718-419846605432-lyogkoe-govyazhe</url>
+			<count>9999</count>
+			<price>170.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>205115950421</categoryId>
+		</offer>
+		<offer id="125608928167">
+			<name>Мозги говяжьи</name>
+			<description>
+<![CDATA[
+Полезность говяжьих мозгов определяется в первую очередь большим содержанием липидов, ненасыщенных жирных кислот, фосфорных соединений
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3365-3130-4566-b564-663138306663/_.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/govyadina/tproduct/465556718-125608928167-mozgi-govyazhi</url>
+			<count>9999</count>
+			<price>170.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>205115950421</categoryId>
+		</offer>
+		<offer id="266141397421">
+			<name>Носы говяжьи</name>
+			<description>
+<![CDATA[
+Прекрасный источник кальция и коллагена
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3837-3332-4331-a662-303131666364/2.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/govyadina/tproduct/465556718-266141397421-nosi-govyazhi</url>
+			<count>9999</count>
+			<price>280.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>205115950421</categoryId>
+		</offer>
+		<offer id="744994742843">
+			<name>Пенисы бычьи рубленные</name>
+			<description>
+<![CDATA[
+Мясная основа бычьего корня, основа бычьего пениса с мясом, прожилками, жирком
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild6336-3038-4438-a361-303863316635/_.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/govyadina/tproduct/465556718-744994742843-penisi-bichi-rublennie</url>
+			<count>9999</count>
+			<price>250.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>205115950421</categoryId>
+		</offer>
+		<offer id="697494073539">
+			<name>Почки говяжьи</name>
+			<description>
+<![CDATA[
+По структуре почки относятся к мякотным субпродуктам первой категории
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild6564-3633-4232-b839-353966363735/photo.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/govyadina/tproduct/465556718-697494073539-pochki-govyazhi</url>
+			<count>9999</count>
+			<price>140.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>205115950421</categoryId>
+		</offer>
+		<offer id="943574533451">
+			<name>Рубец говяжий очищенный</name>
+			<description>
+<![CDATA[
+Рубец – это первый отдел желудка жвачных
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild6235-6465-4964-b231-313461366234/_.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/govyadina/tproduct/465556718-943574533451-rubets-govyazhii-ochischennii</url>
+			<count>9999</count>
+			<price>170.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>205115950421</categoryId>
+		</offer>
+		<offer id="189947405516">
+			<name>Семяники бычьи</name>
+			<description>
+<![CDATA[
+Бычьи семенники являются источником легкоусваиваемого и высокоценного белка, который по своему аминокислотному составу не уступает говяжьему мясу
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild6362-3963-4566-b231-333435373465/2.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/govyadina/tproduct/465556718-189947405516-semyaniki-bichi</url>
+			<count>9999</count>
+			<price>180.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>205115950421</categoryId>
+		</offer>
+		<offer id="568439824893">
+			<name>Сердце говяжье</name>
+			<description>
+<![CDATA[
+Говяжье сердце является прямой альтернативой говяжьему мясу
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3562-3661-4762-b961-313334343133/94005283.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/govyadina/tproduct/465556718-568439824893-serdtse-govyazhe</url>
+			<count>9999</count>
+			<price>330.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>205115950421</categoryId>
+		</offer>
+		<offer id="483792923241">
+			<name>Трахея говяжья</name>
+			<description>
+<![CDATA[
+Трахея говяжья (хрящ) — это отличное питание, лакомство и питательная добавка для собаки с отличными вкусовыми данными и легкоусвояемое для желудка животного
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild6464-3938-4364-a137-323038383236/2.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/govyadina/tproduct/465556718-483792923241-traheya-govyazhya</url>
+			<count>9999</count>
+			<price>180.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>205115950421</categoryId>
+		</offer>
+		<offer id="221284716457">
+			<name>Уши говяжьи</name>
+			<description>
+<![CDATA[
+Говяжьи уши это отличное лакомство для собак, способствующее активному развитию жевательного аппарата молодого животного
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3161-3334-4563-a235-373436323737/_.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/govyadina/tproduct/465556718-221284716457-ushi-govyazhi</url>
+			<count>9999</count>
+			<price>280.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>205115950421</categoryId>
+		</offer>
+		<offer id="705269474131">
+			<name>Хвосты говяжьи</name>
+			<description>
+<![CDATA[
+Хвост содержит мало мускулатуры, но много костей и соединительной ткани
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild6130-6665-4336-a161-663637653938/_.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/govyadina/tproduct/465556718-705269474131-hvosti-govyazhi</url>
+			<count>9999</count>
+			<price>300.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>205115950421</categoryId>
+		</offer>
+		<offer id="911747922473">
+			<name>Хрящи говяжий</name>
+			<description>
+<![CDATA[
+Хрящи — это натуральный источник хондрамина — биорегулятора хрящевой ткани, который способствует нормальному протеканию обменных процессов в хрящах и снижает возможность возникновения различных поражений суставов и позвоночника
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3430-3734-4262-a461-333664623636/_.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/govyadina/tproduct/465556718-911747922473-hryaschi-govyazhii</url>
+			<count>9999</count>
+			<price>200.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>205115950421</categoryId>
+		</offer>
+		<offer id="291467646139">
+			<name>Пикало говяжье (мясо пищевода) сушеное</name>
+			<description>
+<![CDATA[
+Мясо пищевода сушеное имеет 100% натуральный запах и вкус, приятный для собак, а также содержит массу микроэлементов.
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3761-6565-4665-a366-303031646363/_-0.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/lakomstva/tproduct/465567409-291467646139-pikalo-govyazhe-myaso-pischevoda-susheno</url>
+			<count>9999</count>
+			<price>200.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>405675364441</categoryId>
+		</offer>
+		<offer id="614364387419">
+			<name>Уши сушеные</name>
+			<description>
+<![CDATA[
+Натуральные сушеные лакомства для собак. Изготовлены из российского сырья, без отбеливателей и консервантов по технологии, сохраняющей естественный вкус и аромат.
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3633-3833-4066-b632-353435616563/--1024x682-0.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/lakomstva/tproduct/465567409-614364387419-ushi-sushenie</url>
+			<count>9999</count>
+			<price>200.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>405675364441</categoryId>
+		</offer>
+		<offer id="773092220506">
+			<name>Легкое мелкое сушеное</name>
+			<description>
+<![CDATA[
+Основная его ценность заключается в большом содержании белка – 15 грамм на 100 грамм продукта.
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild6366-6563-4939-b862-373566616436/--768x512-0.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/lakomstva/tproduct/465567409-773092220506-legkoe-melkoe-sushenoe</url>
+			<count>9999</count>
+			<price>150.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>405675364441</categoryId>
+		</offer>
+		<offer id="273699913068">
+			<name>Вымя мелкое сушеное</name>
+			<description>
+<![CDATA[
+Вымя говяжье – это натуральный продукт с большим содержанием витаминов, легкоусвояемых жиров и самое главное не содержит красителей и консервантов.
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3330-3739-4035-b336-396239313631/_.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/lakomstva/tproduct/465567409-273699913068-vimya-melkoe-sushenoe</url>
+			<count>9999</count>
+			<price>150.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>405675364441</categoryId>
+		</offer>
+		<offer id="796438605747">
+			<name>Рубец сушеный</name>
+			<description>
+<![CDATA[
+Рубец (желудок) это отличное сушеное лакомство для собак и кошек любых пород.
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild6534-6337-4538-b339-393935353165/-0.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/lakomstva/tproduct/465567409-796438605747-rubets-sushenii</url>
+			<count>9999</count>
+			<price>140.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>405675364441</categoryId>
+		</offer>
+		<offer id="990402492011">
+			<name>Рубец говяжий неочищенный</name>
+			<description>
+<![CDATA[
+Рубец – это первый отдел желудка жвачных
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3061-3863-4566-a238-656238346639/2.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/govyadina/tproduct/465556718-990402492011-rubets-govyazhii-neochischennii</url>
+			<count>9999</count>
+			<price>80.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>205115950421</categoryId>
+		</offer>
+		<offer id="136618782776">
+			<name>Печень говяжья</name>
+			<description>
+<![CDATA[
+Достаточно тяжелый и питательный продукт, который любят использовать многие кинологи в качестве поощрений при обучении питомцев
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3534-3339-4238-b339-383537333235/_.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/govyadina/tproduct/465556718-136618782776-pechen-govyazhya</url>
+			<count>9999</count>
+			<price>190.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>205115950421</categoryId>
+		</offer>
+		<offer id="634496395599">
+			<name>Сушеный бычий корень (пенис)</name>
+			<description>
+<![CDATA[
+Высушенный бычий пенис содержит большое количество аминокислот и микроэлементов, оказывает положительное воздействие на общий обмен веществ собаки
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3837-3230-4339-a332-323566383366/--0.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/sale/tproduct/465548205-634496395599-sushenii-bichii-koren-penis</url>
+			<count>9999</count>
+			<price>450.00</price>
+			<oldprice>540.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>928360211621</categoryId>
+		</offer>
+		<offer id="823463209404">
+			<name>Фарш куриный</name>
+			<description>
+<![CDATA[
+Куриный фарш для собак содержит полезные белки, жиры, минералы и витамины, что помогает поддерживать здоровье собаки
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild6662-6134-4330-b464-393032393733/full_Schwein_Hackfle.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/ptica/tproduct/465565836-823463209404-farsh-kurinii</url>
+			<count>9999</count>
+			<price>120.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>112080788621</categoryId>
+		</offer>
+		<offer id="409009125634">
+			<name>Отжим куриный</name>
+			<description>
+<![CDATA[
+Собаке#nbsp;подобный продукт дает необходимые микроэлементы и питательные вещества
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild6634-3934-4637-b136-626465633734/photo.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/ptica/tproduct/465565836-409009125634-otzhim-kurinii</url>
+			<count>9999</count>
+			<price>60.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>112080788621</categoryId>
+		</offer>
+		<offer id="700643565305">
+			<name>Обрезь с головы</name>
+			<description>
+<![CDATA[
+Обрезь с бычьей головы для собак может предоставить питательные преимущества
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild6239-6537-4063-a164-336239656266/obrez-premium.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/govyadina/tproduct/465556718-700643565305-obrez-s-golovi</url>
+			<count>9999</count>
+			<price>200.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>205115950421</categoryId>
+		</offer>
+		<offer id="431852504930">
+			<name>Кости</name>
+			<description>
+<![CDATA[
+Кости говяжьи (ребрышки и позвоночный отдел) включаются в рацион питания взрослых собак в ограниченном количестве
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3266-3431-4962-b663-386363633062/photo.jpeg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/govyadina/tproduct/465556718-431852504930-kosti</url>
+			<count>9999</count>
+			<price>100.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>205115950421</categoryId>
+		</offer>
+		<offer id="406076571916">
+			<name>Ноги говяжьи</name>
+			<description>
+<![CDATA[
+Говяжьи ноги (путовый сустав), являются диетическим лакомством для собак
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3433-6263-4165-b762-613338633531/tradeboardMeYVxY_img.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/govyadina/tproduct/465556718-406076571916-nogi-govyazhi</url>
+			<count>9999</count>
+			<price>120.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>205115950421</categoryId>
+		</offer>
+		<offer id="397027453520">
+			<name>Трахея баранья</name>
+			<description>
+<![CDATA[
+Крупные бараньи кости собаке рекомендуется давать только в сыром виде
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3636-6334-4365-b330-643866323366/24.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/govyadina/tproduct/465556718-397027453520-traheya-baranya</url>
+			<count>9999</count>
+			<price>180.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>205115950421</categoryId>
+		</offer>
+		<offer id="843690143840">
+			<name>Обрез говяжий</name>
+			<description>
+<![CDATA[
+Говядина является одним из самых распространенных видов мяса в кормлении домашних животных
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3835-3738-4366-a463-343465653038/_.jpeg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/govyadina/tproduct/465556718-843690143840-obrez-govyazhii</url>
+			<count>9999</count>
+			<price>220.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>205115950421</categoryId>
+		</offer>
+		<offer id="376746180221">
+			<name>Фарш говяжий</name>
+			<description>
+<![CDATA[
+Ветеринары рекомендуют включать натуральное мясо в рацион вашего питомца, так как в нем содержится большое количество аминокислот, ферментов и витаминов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3736-6137-4232-a165-386330633262/577d95dc-4821-43c2-9.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/govyadina/tproduct/465556718-376746180221-farsh-govyazhii</url>
+			<count>9999</count>
+			<price>150.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>205115950421</categoryId>
+		</offer>
+		<offer id="216807815231">
+			<name>Лапы куриные</name>
+			<description>
+<![CDATA[
+Собакам миниатюрных пород можно давать не больше одной лапки в день, крупным — 2–3
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3966-6363-4664-b161-313464326537/scale_1200.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/ptica/tproduct/465565836-216807815231-lapi-kurinie</url>
+			<count>9999</count>
+			<price>100.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>112080788621</categoryId>
+		</offer>
+		<offer id="220085852041">
+			<name>Шея утиная сушеная</name>
+			<description>
+<![CDATA[
+Шея утки#nbsp;- важный продукт в рационе собак. Ваш питомец#nbsp;на долго будет увлечен#nbsp;сушенной утиной шеей.
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild6264-3637-4130-b265-333538613761/3_4-1.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/lakomstva/tproduct/465567409-220085852041-sheya-utinaya-sushenaya</url>
+			<count>9999</count>
+			<price>150.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>405675364441</categoryId>
+		</offer>
+		<offer id="504717576431">
+			<name>Шея индейки сушеные</name>
+			<description>
+<![CDATA[
+Шеи индейки сушеные — лакомство для собак, которое является источником полноценных белков, витаминов и минеральных веществ.
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild6264-6361-4564-b035-343062333434/3_4-2.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/lakomstva/tproduct/465567409-504717576431-sheya-indeiki-sushenie</url>
+			<count>9999</count>
+			<price>150.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>405675364441</categoryId>
+		</offer>
+		<offer id="862423665921">
+			<name>Колбаса «ПЕС БАРБОС» с птицей</name>
+			<description>
+<![CDATA[
+субпродукты говяжьи 1 и 2 категории,#nbsp;фарш птицы, обрезь говяжья, #nbsp;крупа ячневая
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3839-6462-4232-a637-326432656163/photo.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/kolbasa/tproduct/465562205-862423665921-kolbasa-pes-barbos-s-ptitsei</url>
+			<count>9999</count>
+			<price>250.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>611228442691</categoryId>
+		</offer>
+		<offer id="747488258021">
+			<name>Колбаса «ПЕС БАРБОС» с кальцием</name>
+			<description>
+<![CDATA[
+субпродукты говяжьи 1 и 2 категории,#nbsp;мясокостная мука, обрезь говяжья, #nbsp;крупа ячневая
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3839-6462-4232-a637-326432656163/photo.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/kolbasa/tproduct/465562205-747488258021-kolbasa-pes-barbos-s-kaltsiem</url>
+			<count>9999</count>
+			<price>250.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>611228442691</categoryId>
+		</offer>
+		<offer id="928118163791">
+			<name>Лососевое масло, 280мл</name>
+			<description>
+<![CDATA[
+Пищевая добавка для собак и кошек, бесценный источник омега-жирных кислот натурального происхождения
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3631-3033-4164-a261-353139636362/__.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/maslo/tproduct/465563295-928118163791-lososevoe-maslo-280ml</url>
+			<count>9999</count>
+			<price>300.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>527666187391</categoryId>
+		</offer>
+		<offer id="957426710431">
+			<name>Лососевое масло, 500мл</name>
+			<description>
+<![CDATA[
+Пищевая добавка для собак и кошек, бесценный источник омега-жирных кислот натурального происхождения
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3631-3033-4164-a261-353139636362/__.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/maslo/tproduct/465563295-957426710431-lososevoe-maslo-500ml</url>
+			<count>9999</count>
+			<price>500.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>527666187391</categoryId>
+		</offer>
+		<offer id="949511644791">
+			<name>Лососевое масло, 1л</name>
+			<description>
+<![CDATA[
+Пищевая добавка для собак и кошек, бесценный источник омега-жирных кислот натурального происхождения
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3631-3033-4164-a261-353139636362/__.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/maslo/tproduct/465563295-949511644791-lososevoe-maslo-1l</url>
+			<count>9999</count>
+			<price>800.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>527666187391</categoryId>
+		</offer>
+		<offer id="475337409561">
+			<name>Аорта сушеная</name>
+			<description>
+<![CDATA[
+Лакомства — лучшая награда для тех, кто каждый день ждёт нас дома. Кто радуется нашему возвращению!
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3036-3534-4234-b333-303937356165/1_1-4.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/lakomstva/tproduct/465567409-475337409561-aorta-sushenaya</url>
+			<count>9999</count>
+			<price>200.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>405675364441</categoryId>
+		</offer>
+		<offer id="207166137931">
+			<name>Хрящ лопатки сушеный</name>
+			<description>
+<![CDATA[
+Хрящ говяжий — натуральное лакомство для собак, богатое кальцием и другими микроэлементами
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild6562-3033-4261-b133-333262363431/3_2-2.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/lakomstva/tproduct/465567409-207166137931-hryasch-lopatki-sushenii</url>
+			<count>9999</count>
+			<price>140.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>405675364441</categoryId>
+		</offer>
+		<offer id="982632872391">
+			<name>Мясные чипсы сушеные</name>
+			<description>
+<![CDATA[
+Натуральное сушеное лакомство для собак, богатое витаминами и минералами
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3561-3235-4538-b535-666134373536/3_2-3.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/lakomstva/tproduct/465567409-982632872391-myasnie-chipsi-sushenie</url>
+			<count>9999</count>
+			<price>250.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>405675364441</categoryId>
+		</offer>
+		<offer id="568606935321">
+			<name>Семенники говяжьи сушеные</name>
+			<description>
+<![CDATA[
+Сублимированные бычьи семенники – высокопитательный деликатес, за счет большого количества быстроусвояемого белка
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild6338-3239-4236-b265-616664326431/3_2-1.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/lakomstva/tproduct/465567409-568606935321-semenniki-govyazhi-sushenie</url>
+			<count>9999</count>
+			<price>250.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>405675364441</categoryId>
+		</offer>
+		<offer id="372909902181">
+			<name>Лапы (ласты) утиные сушёные</name>
+			<description>
+<![CDATA[
+Утиные лапки (ласты) - это не просто вкусное лакомство для собаки, оно так же служит для отвлечения животного, сохраняя в целости вашу мебель и личные вещи и полностью завоевывания все внимание вашего любимца
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3333-6562-4164-a561-373662393565/3_2.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/lakomstva/tproduct/465567409-372909902181-lapi-lasti-utinie-sushyonie</url>
+			<count>9999</count>
+			<price>150.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>405675364441</categoryId>
+		</offer>
+		<offer id="785987586281">
+			<name>Головы куриные</name>
+			<description>
+<![CDATA[
+В куриных головах содержатся ткани мозга, благодаря чему этот продукт считается полезным для собак
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild6134-3838-4531-a530-646163343438/D0B3D0BED0BBD0BED0B2.jpeg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/ptica/tproduct/465565836-785987586281-golovi-kurinie</url>
+			<count>9999</count>
+			<price>100.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>112080788621</categoryId>
+		</offer>
+		<offer id="911217066251">
+			<name>Шеи индейки</name>
+			<description>
+<![CDATA[
+Шею индейки ваша собака будет разгрызать с особым удовольствием и большим аппетитом - ведь этот продукт#nbsp;состоит из хрящей и мягких костей с мясом
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild6134-6161-4437-a230-643433356236/3_2.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/ptica/tproduct/465565836-911217066251-shei-indeiki</url>
+			<count>9999</count>
+			<price>220.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>112080788621</categoryId>
+		</offer>
+		<offer id="656915907291">
+			<name>Шеи Утки</name>
+			<description>
+<![CDATA[
+#nbsp;Порадуйте свою собаку замечательной вкусняшкой! Речь об утиной шее. Она#nbsp;состоит из хрящей и мягких косточек с мясом
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3963-6339-4239-b138-666233373737/3_2-2.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/ptica/tproduct/465565836-656915907291-shei-utki</url>
+			<count>9999</count>
+			<price>180.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>112080788621</categoryId>
+		</offer>
+		<offer id="991745795051">
+			<name>Желудки Утки</name>
+			<description>
+<![CDATA[
+Полезный и вкусный субпродукт
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild6161-3662-4263-b935-393566636338/3_2-1.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/ptica/tproduct/465565836-991745795051-zheludki-utki</url>
+			<count>9999</count>
+			<price>230.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>112080788621</categoryId>
+		</offer>
+		<offer id="621336784011">
+			<name>Лапы Утки</name>
+			<description>
+<![CDATA[
+Полезно для профилактика заболеваний опорно-двигательного аппарата, для активных/спортивных/рабочих/уличных животных, после болезни, травмы, операции
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild6561-6438-4934-a636-666138383764/3_2-3.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/ptica/tproduct/465565836-621336784011-lapi-utki</url>
+			<count>9999</count>
+			<price>100.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>112080788621</categoryId>
+		</offer>
+		<offer id="419015861191">
+			<name>Шеи Куриные</name>
+			<description>
+<![CDATA[
+В куриных шейках содержится так необходимая растущим собакам соединительная и хрящевая ткань.
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3832-3132-4231-b037-323439313965/3_2-4.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/ptica/tproduct/465565836-419015861191-shei-kurinie</url>
+			<count>9999</count>
+			<price>160.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>112080788621</categoryId>
+		</offer>
+		<offer id="698747082421">
+			<name>Желудки куриные</name>
+			<description>
+<![CDATA[
+Желудки куриные улучшают состояние шерсти и#nbsp;нормализуют желудочно–кишечный тракт
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3636-3730-4762-b332-323332366331/5dab349d67755_indeyk.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/ptica/tproduct/465565836-698747082421-zheludki-kurinie</url>
+			<count>9999</count>
+			<price>220.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>112080788621</categoryId>
+		</offer>
+		<offer id="319814789281">
+			<name>Микс №1 (фасовка по 2 кг)</name>
+			<description>
+<![CDATA[
+Состав: желудки утки, обрезь головы
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3931-3530-4638-b761-306432313932/_1.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/mix/tproduct/465565245-319814789281-miks-1-fasovka-po-2-kg</url>
+			<count>9999</count>
+			<price>280.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>127719998281</categoryId>
+		</offer>
+		<offer id="431957199441">
+			<name>Микс №2 (фасовка по 2 кг)</name>
+			<description>
+<![CDATA[
+Состав: лёгкое, обрезь головы, рубец
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild6430-3932-4363-a639-666463376366/_2.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/mix/tproduct/465565245-431957199441-miks-2-fasovka-po-2-kg</url>
+			<count>9999</count>
+			<price>250.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>127719998281</categoryId>
+		</offer>
+		<offer id="834309659841">
+			<name>Микс №3 (фасовка по 2 кг)</name>
+			<description>
+<![CDATA[
+Состав: шековина, вымя, лёгкое
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3533-3430-4862-b939-336430613332/_3.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/mix/tproduct/465565245-834309659841-miks-3-fasovka-po-2-kg</url>
+			<count>9999</count>
+			<price>250.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>127719998281</categoryId>
+		</offer>
+		<offer id="996421671731">
+			<name>Печень утки</name>
+			<description>
+<![CDATA[
+По составу схожа с куриной. Преимуществом является более плотная структура, большая калорийность, благодаря которой продукт подходит даже для крупных псов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild6439-3037-4539-b633-363765326563/1c3136ab-8c1f-11e9-9.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/ptica/tproduct/465565836-996421671731-pechen-utki</url>
+			<count>9999</count>
+			<price>230.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>112080788621</categoryId>
+		</offer>
+		<offer id="362326926541">
+			<name>Головы утиные</name>
+			<description>
+<![CDATA[
+Утиное мясо является отличным источником витаминов#nbsp;группы «В» и вот этих микроэлементов: как кальций, магний, калий, фосфор
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3561-3866-4138-a263-336637636639/44121153.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/ptica/tproduct/465565836-362326926541-golovi-utinie</url>
+			<count>9999</count>
+			<price>140.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>112080788621</categoryId>
+		</offer>
+		<offer id="695449776011">
+			<name>Навага с головой</name>
+			<description>
+<![CDATA[
+Диетическое филе не содержит даже 4% жиров, зато имеет в запасе огромное количество витаминов группы D, С, Е, РР, В, К
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3437-6430-4337-b838-616364393630/79255283.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/fish/tproduct/570249160-695449776011-navaga-s-golovoi</url>
+			<count>9999</count>
+			<price>180.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>332071940881</categoryId>
+		</offer>
+		<offer id="960655507011">
+			<name>Фарш индейки</name>
+			<description>
+<![CDATA[
+Мясо птицы всегда было легким, а потому подходящим даже для самого капризного желудка
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6366-3362-4434-b233-306134363737/91751371.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/ptica/tproduct/465565836-960655507011-farsh-indeiki</url>
+			<count>9999</count>
+			<price>180.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>112080788621</categoryId>
+		</offer>
+		<offer id="176429848981">
+			<name>Микс №4 (фасовка по 2 кг)</name>
+			<description>
+<![CDATA[
+Состав: сердце, печень, обрезь
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3530-3832-4961-a339-613531623138/41958286.png</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/mix/tproduct/465565245-176429848981-miks-4-fasovka-po-2-kg</url>
+			<count>9999</count>
+			<price>300.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>127719998281</categoryId>
+		</offer>
+		<offer id="659540995841">
+			<name>Рубец бараний</name>
+			<description>
+<![CDATA[
+Рубец – это первый отдел желудка жвачных
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6465-3732-4632-b463-353962313465/12958404.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/baranina/tproduct/671271469-659540995841-rubets-baranii</url>
+			<count>9999</count>
+			<price>110.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>288998910711</categoryId>
+		</offer>
+		<offer id="408065553691">
+			<name>Сердце баранье</name>
+			<description>
+<![CDATA[
+Сердце баранье – это субпродукт, принадлежащий к первой категории, а это означает, что по своим вкусовым качествам и питательной ценности оно мало чем уступает чистому мясу.
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3138-6234-4433-b166-643763633030/17164349.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/baranina/tproduct/671271469-408065553691-serdtse-barane</url>
+			<count>9999</count>
+			<price>350.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>288998910711</categoryId>
+		</offer>
+		<offer id="156694040281">
+			<name>Головы красной рыбы</name>
+			<description>
+<![CDATA[
+Головы красной рыбы#nbsp;— это полезный и вкусный выбор для собак разных пород.
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3130-3839-4566-a332-623831393133/76068473.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/fish/tproduct/570249160-156694040281-golovi-krasnoi-ribi</url>
+			<count>9999</count>
+			<price>120.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>332071940881</categoryId>
+		</offer>
+		<offer id="226126586201">
+			<name>Каша для собак натуральная злаковая, рацион 1 (4,5 кг)</name>
+			<description>
+<![CDATA[
+Состав: крупа ячневая; хлопья овсяные «Геркулес»; крупа пшеничная «Полтавская»; семена льна
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6131-3632-4163-a365-396630353063/88111437.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/kasha/tproduct/465561333-226126586201-kasha-dlya-sobak-naturalnaya-zlakovaya-r</url>
+			<count>9999</count>
+			<price>660.00</price>
+			<oldprice>825.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>779828207211</categoryId>
+			<weight>4.5</weight>
+		</offer>
+		<offer id="748860247051">
+			<name>Каша для собак натуральная злаковая, рацион 2 (4,5 кг)</name>
+			<description>
+<![CDATA[
+Состав: крупа гречневая продел; хлопья овсяные «Геркулес»; пшено шлифованное; семена льна
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3164-3166-4262-b935-623466346164/57538603.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/kasha/tproduct/465561333-748860247051-kasha-dlya-sobak-naturalnaya-zlakovaya-r</url>
+			<count>9999</count>
+			<price>660.00</price>
+			<oldprice>825.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>779828207211</categoryId>
+			<weight>4.5</weight>
+		</offer>
+		<offer id="368570468771">
+			<name>Каша для собак натуральная злаковая, рацион 3 (4,5 кг)</name>
+			<description>
+<![CDATA[
+Состав: рис шлифованный; хлопья овсяные «Геркулес»; макаронные изделия; семена льна
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3761-3162-4335-b366-396638316531/17133095.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/kasha/tproduct/465561333-368570468771-kasha-dlya-sobak-naturalnaya-zlakovaya-r</url>
+			<count>9999</count>
+			<price>1100.00</price>
+			<oldprice>1320.00</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>779828207211</categoryId>
+			<weight>4.5</weight>
+		</offer>
+		<offer id="987140966751">
+			<name>Фарш из рубца</name>
+			<description>
+<![CDATA[
+Отличный источник белка для собак и кошек.
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3666-6166-4561-b566-323565653831/39900466.png</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/govyadina/tproduct/465556718-987140966751-farsh-iz-rubtsa</url>
+			<count>9999</count>
+			<price>150.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>205115950421</categoryId>
+		</offer>
+		<offer id="991227774101">
+			<name>Чипсы из говяжьей печени (мелкие)</name>
+			<description>
+<![CDATA[
+Лакомство для собак подходит для дрессировки и поощрения питомца.
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3330-6161-4336-b063-633231653335/15230363.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/lakomstva/tproduct/465567409-991227774101-chipsi-iz-govyazhei-pecheni-melkie</url>
+			<count>9999</count>
+			<price>150.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>405675364441</categoryId>
+		</offer>
+		<offer id="601197043231">
+			<name>Селезёнка говяжья</name>
+			<description>
+<![CDATA[
+Селезёнка#nbsp;является одним из полезных субпродуктов для собак
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3762-6364-4466-a661-386532323064/42832119.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/govyadina/tproduct/465556718-601197043231-selezyonka-govyazhya</url>
+			<count>9999</count>
+			<price>120.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>205115950421</categoryId>
+		</offer>
+		<offer id="768936382242">
+			<name>Фарш из шеи утки (Лоток)</name>
+			<description>
+<![CDATA[
+Такой формат создан нами специально для питомцев, которые не могут разгрызать кости, однако им также необходим кальций.
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3234-6439-4261-b433-373430363730/68818379.png</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/farsh/tproduct/803243079-768936382242-farsh-iz-shei-utki-lotok</url>
+			<count>9999</count>
+			<price>200.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>460782687632</categoryId>
+		</offer>
+		<offer id="405086793002">
+			<name>Фарш суточные цыплята (Лоток)</name>
+			<description>
+<![CDATA[
+Такой формат создан нами специально для питомцев, которые не могут разгрызать кости, однако им также необходим кальций.
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3461-3236-4766-b766-383832343363/96739402.png</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/farsh/tproduct/803243079-405086793002-farsh-sutochnie-tsiplyata-lotok</url>
+			<count>9999</count>
+			<price>150.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>460782687632</categoryId>
+		</offer>
+		<offer id="514065695382">
+			<name>Фарш из рыбы (Лоток)</name>
+			<description>
+<![CDATA[
+Рыбный фарш является отличным источником белка и омега-3 жирных кислот, что полезно для здоровья собак
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3533-3762-4134-b435-653639366664/63514855.png</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/farsh/tproduct/803243079-514065695382-farsh-iz-ribi-lotok</url>
+			<count>9999</count>
+			<price>180.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>460782687632</categoryId>
+		</offer>
+		<offer id="764413549692">
+			<name>Головы индейки</name>
+			<description>
+<![CDATA[
+Головы индейки – это натуральный продукт, который отлично подходит в качестве лакомства для собак
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3231-3033-4936-b030-653761386533/91482580.png</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/ptica/tproduct/465565836-764413549692-golovi-indeiki</url>
+			<count>9999</count>
+			<price>120.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>112080788621</categoryId>
+		</offer>
+		<offer id="467978791522">
+			<name>Фарш из куриных шей (Лоток)</name>
+			<description>
+<![CDATA[
+Шеи содержат витамины А, Е, натрий, фосфор, кальций.
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3961-6331-4663-b438-623665373438/37514364.png</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/ptica/tproduct/465565836-467978791522-farsh-iz-kurinih-shei-lotok</url>
+			<count>9999</count>
+			<price>180.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>112080788621</categoryId>
+		</offer>
+		<offer id="632423927532">
+			<name>Сычуг, книжка, рубец</name>
+			<description>
+<![CDATA[
+3в1: сычуг, книжка и рубец — это части желудка жвачных животных, которые полезны для собак
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3532-6331-4936-b866-366565633734/37235176.png</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/govyadina/tproduct/465556718-632423927532-sichug-knizhka-rubets</url>
+			<count>9999</count>
+			<price>110.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>205115950421</categoryId>
+		</offer>
+		<offer id="267851326792">
+			<name>Гузка утки</name>
+			<description>
+<![CDATA[
+Полезный и вкусный субпродукт
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3033-3437-4836-a537-336330646534/66573266.png</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/ptica/tproduct/465565836-267851326792-guzka-utki</url>
+			<count>9999</count>
+			<price>130.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>112080788621</categoryId>
+		</offer>
+		<offer id="355872268142">
+			<name>Печень баранья</name>
+			<description>
+<![CDATA[
+Баранья печень полезна для собак благодаря своему составу
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3230-6239-4061-b963-373064353539/69944467.png</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/baranina/tproduct/671271469-355872268142-pechen-baranya</url>
+			<count>9999</count>
+			<price>200.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>288998910711</categoryId>
+		</offer>
+		<offer id="616218733462">
+			<name>Кишки зачищенные</name>
+			<description>
+<![CDATA[
+Это не только вкусное лакомство для ваших четвероногих друзей, но и ценный источник питательных веществ, который может значительно улучшить здоровье вашей собаки
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3736-6233-4162-b234-323834366166/62677685.png</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/govyadina/tproduct/465556718-616218733462-kishki-zachischennie</url>
+			<count>9999</count>
+			<price>100.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>205115950421</categoryId>
+		</offer>
+		<offer id="572258266492">
+			<name>Микс №5 (фасовка по 2 кг)</name>
+			<description>
+<![CDATA[
+Состав: печень, почки и сердце
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3666-3063-4635-b639-383430613465/60228255.png</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/mix/tproduct/465565245-572258266492-miks-5-fasovka-po-2-kg</url>
+			<count>9999</count>
+			<price>250.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>127719998281</categoryId>
+		</offer>
+		<offer id="463767873512">
+			<name>Стейк индейки</name>
+			<description>
+<![CDATA[
+это нежное и вкусное мясо, которое идеально подходит для здорового питания
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6331-3836-4830-a266-363439393031/47835722.png</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/ptica/tproduct/465565836-463767873512-steik-indeiki</url>
+			<count>9999</count>
+			<price>390.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>112080788621</categoryId>
+		</offer>
+		<offer id="457094244862">
+			<name>Обрезь мелкая нарезка (фасовка по 2 кг)</name>
+			<picture>https://static.tildacdn.com/tild3931-3530-4638-b761-306432313932/_1.jpg</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/narezka/tproduct/905482312-457094244862-obrez-melkaya-narezka-fasovka-po-2-kg</url>
+			<count>9999</count>
+			<price>280.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>883358544912</categoryId>
+		</offer>
+		<offer id="206785026452">
+			<name>Обрезь головы мелкая нарезка (фасовка по 2 кг)</name>
+			<picture>https://static.tildacdn.com/stor3532-6434-4433-b133-356435303065/53226066.png</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/narezka/tproduct/905482312-206785026452-obrez-golovi-melkaya-narezka-fasovka-po</url>
+			<count>9999</count>
+			<price>265.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>883358544912</categoryId>
+		</offer>
+		<offer id="325420360452">
+			<name>Печень мелкая нарезка (фасовка по 2 кг)</name>
+			<picture>https://static.tildacdn.com/stor3766-6362-4433-b266-663633373536/22243624.png</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/narezka/tproduct/905482312-325420360452-pechen-melkaya-narezka-fasovka-po-2-kg</url>
+			<count>9999</count>
+			<price>270.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>883358544912</categoryId>
+		</offer>
+		<offer id="434423834032">
+			<name>Фарш субпродуктовый</name>
+			<description>
+<![CDATA[
+Вкусное и питательное лакомство, которое станет отличным дополнением к рациону вашего питомца
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6530-3131-4562-b635-336531393839/26162230.png</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/farsh/tproduct/803243079-434423834032-farsh-subproduktovii</url>
+			<count>9999</count>
+			<price>180.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>460782687632</categoryId>
+		</offer>
+		<offer id="678610190042">
+			<name>Фарш утки</name>
+			<description>
+<![CDATA[
+Утка содержит множество полезных микроэлементов и витаминов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6430-3838-4335-a466-373862653935/72311485.png</picture>
+			<url>https://xn----7sbb5akicf9af1md.xn--p1ai/farsh/tproduct/803243079-678610190042-farsh-utki</url>
+			<count>9999</count>
+			<price>160.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>460782687632</categoryId>
+		</offer>
+		</offers>
+	</shop>
+</yml_catalog>
